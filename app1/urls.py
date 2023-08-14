@@ -5,5 +5,4 @@ from app1 import views
 
 urlpatterns = [
     path('',views.index,name='index'),
-
 ]
